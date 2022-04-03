@@ -1,3 +1,0 @@
-s='lishi/3713242003noall.txt'
-kk=open(s,'r')
-print(kk)
